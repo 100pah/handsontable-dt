@@ -1,0 +1,14 @@
+{
+  "name": "handsontable-dt",
+  "version": "0.10.5.2",
+  "contributors": [
+    {
+      "name": "all",
+      "email": "all@all.all"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/100pah/handsontable-dt.git"
+  }
+}
